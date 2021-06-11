@@ -18,7 +18,6 @@ function App() {
         <Content>
         <Navbar />
           <Switch>
-            <Route exact path='/pokemon-app' component={PokemonList} />
             <Route exact path='/' component={PokemonList} />
             <Route rxact path='/pokemon/:name' component={PokemonDetail} />
             <Route exact path='/inventory' component={MyPokemon} />

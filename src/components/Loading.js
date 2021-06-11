@@ -4,11 +4,10 @@ import pokeball from "../assets/pokeball.png";
 const StyledLoading = styled.div`
   position: fixed;
   top: 50%;
-  left: 50%;
+  left: 45%;
   .pokemon-ball {
-    width:30%;
+    width:20%;
     top: 50%;
-    left: 30%;
   }
 `;
 

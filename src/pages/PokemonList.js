@@ -15,7 +15,7 @@ const StyledPokemonList = styled.div`
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     gap: 20px;
-   Loadinground: #d4ad98;
+    background: #d4ad98;
     padding: 15px;
     margin-top: -33px;
   }
